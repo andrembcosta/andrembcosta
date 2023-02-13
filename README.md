@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a computational scientist, originally from Brazil. Currently, I am working towards my PhD at Duke University and, as part of my research, I am developing some of the fracture mechanics modules in the GEOSX project. My main expertise is computational fracture mechanics, but I am generally interested in anything involving numerical methods for science and engineering applications.
 
 
-## <b> Skills</b>
+<!-- ## <b> Skills</b>
 
 <p align="center">
 
@@ -36,24 +36,21 @@ I am a computational scientist, originally from Brazil. Currently, I am working 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-</p>
+</p> -->
 
-## <b>Contact</b>
+<!-- ## <b>Contact</b>
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
 <a href="https://linkedin.com/in/andrembcosta" target="_blank">
 <img src="https://img.shields.io/badge/linkedin -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:andrembc10@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
+
 </div>
 
-<div align='center'>
+<div align='center'> -->
