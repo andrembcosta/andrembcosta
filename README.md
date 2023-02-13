@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am a computational scientist, originally from Brazil. Currently, I am working towards my PhD at Duke University and, as part of my research, I am developing some of the fracture mechanics modules in the GEOSX project. My main expertise is computational fracture mechanics, but I am generally interested in anything involving numerical methods for science and engineering applications.
 
+Programming languagues: C, C++, MATLAB, Python
+
+Softwares and tools: git, linux, slurm, vs code, emacs 
 
 <!-- ## <b> Skills</b>
 
