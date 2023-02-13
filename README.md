@@ -19,7 +19,7 @@ I am a computational scientist, originally from Brazil. Currently, I am working 
 
 Programming languagues: C, C++, MATLAB, Python
 
-Softwares and tools: git, linux, slurm, vs code, emacs 
+Other tools: git, linux, slurm, vs code, emacs 
 
 <!-- ## <b> Skills</b>
 
