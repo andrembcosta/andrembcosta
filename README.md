@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a computational scientist, originally from Brazil. Currently, I am working towards my PhD at Duke University and, as part of my research, I develop some of the fracture mechanics modules in the [GEOSX](https://www.geosx.org) project. Although my main expertise is in computational fracture mechanics, I am also generally interested in anything involving numerical methods for science and engineering applications.
+I am a computational scientist, originally from Brazil. Currently, I am working towards my PhD at Duke University and, as part of my research, I develop and maintain some of the fracture mechanics modules in the [GEOSX](https://www.geosx.org) project. Although my main expertise is in computational fracture mechanics, I am also generally interested in anything involving numerical methods for science and engineering applications.
 
 - **Languages**:
         
